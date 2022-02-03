@@ -1,0 +1,86 @@
+{
+    "categories": {
+        "m": "moderation",
+        "u": "utility",
+        "i": "info",
+        "f": "fun"
+    },
+    "help": {
+        "name": "`?help cateogry`",
+        "value": "Certain help commands",
+        "section": "info",
+        "inline":true
+    },
+    "ban": {
+        "name": "`?ban @mentionsomeone`",
+        "value": "Bans a member",
+        "section": "moderation",
+        "inline":true
+    },
+    "unban": {
+        "name": "`?unban @mentionsomeone`",
+        "value": "Unbans a member",
+        "section": "moderation",
+        "inline":true
+    },
+    "purge": {
+        "name": "`?purge (limit 100)`",
+        "value": "Deletes a specified amount of messages",
+        "section": "utility",
+        "inline":true
+    },
+    "kick": {
+        "name": "`?kick @mentionSomeone`",
+        "value": "Kicks a member",
+        "section": "moderation",
+        "inline":true
+    },
+    "ping": {
+        "name": "`?ping`",
+        "value": "Shows the ping of the bot",
+        "section": "info",
+        "inline":true
+    },
+    "thread": {
+        "name": "`?thread name`",
+        "value": "Creates a thread for help",
+        "section": "utility",
+        "inline":true
+    },
+    "say": {
+        "name": "`?say {message}`",
+        "value": "Says something for you",
+        "section": "utility",
+        "inline":true
+    },
+    "joke": {
+        "name": "`?joke`",
+        "value": "Shows a random joke",
+        "section": "fun",
+        "inline":true
+    },
+    "roast": {
+        "name": "`?roast`",
+        "value": "Roasts hard",
+        "section": "fun",
+        "inline":true
+    },
+    "meme": {
+        "name": "`?meme`",
+        "value": "Shows a random meme",
+        "section": "fun",
+        "inline":true
+    },
+    "cat": {
+        "name": "`?cat`",
+        "value": "Shows an image of a cat",
+        "section": "fun",
+        "inline":true
+    },
+    "credits": {
+        "name": "`?credits`",
+        "value": "**Shows who contributed to the Bot**",
+        "section": "info",
+        "inline":false
+    }
+}
